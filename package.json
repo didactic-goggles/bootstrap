@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap v5 customize",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass scss/main.scss"
+  },
+  "author": "didactic-goggles",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
